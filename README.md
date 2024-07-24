@@ -1,2 +1,1 @@
-# this is my Local repo.#
-# this is main branch.#
+# this is my Local repo.
